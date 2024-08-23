@@ -8,9 +8,7 @@ We tested various data cases; by accepting data requests in natural language, mo
 
 QGIS users can download the QGIS plugin (AutonomousGIS-GeodataRetrieveAgent) to download the data via natural language in an GIS environment. Note that for some data source you may need to apply API keys. The source code of the QGIS plugin is [here](https://github.com/Teakinboyewa/AutonomousGIS_GeodataRetrieverAgent). QGIS Plugin page: https://plugins.qgis.org/plugins/AutonomousGIS_GeodataRetrieverAgent/
  
-Reference: Li Z., Ning H., 2023. [Autonomous GIS: the next-generation AI-powered GIS](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2278895). Interntional Journal of Digital Earth. https://doi.org/10.1080/17538947.2023.2278895. 
-
-GitHub repository: github.com/gladcolor/LLM-Geo
+Reference: Li Z., Ning H., 2023. [Autonomous GIS: the next-generation AI-powered GIS](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2278895). Interntional Journal of Digital Earth. https://doi.org/10.1080/17538947.2023.2278895. GitHub repository: github.com/gladcolor/LLM-Geo
 
 Note:  LLM-Find is under active development, and the ideas presented in the paper may change due to the rapid development of AI. We hope LLM-Find can inspire geospatial community to further investigate on autonomous GIS.    
 
